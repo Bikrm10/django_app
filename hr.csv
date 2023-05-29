@@ -1,28 +1,28 @@
-hotel_name,Price,Type,Rating
-Annapurna hotel,1000,0,5
-Balmiki Lounge,2000,1,3
-Hotel Vintage,3000,2,4
-Hotel Dharan,4000,2,2
-Karki Hotel,1000,1,3
-Local Adda,2000,0,1
-Bahun Hotel,3000,2,2
-Thakali Hotel,2200,1,2
-Langahali Hotel,1800,1,1
-Sampang Hotel,3800,2,2
-Jaiswal Hotel,2800,1,3
-RatoVale Hotel,1200,2,4
-Mithun Hotel,1900,0,2
-Gajur Hotel,1500,1,1
-Kagbeni Hotel,1890,2,4
-Triyuga Hotel and Louge,2200,1,5
-Gaushala  Hotel,2000,2,2
-Bikash Hotel,2800,1,1
-Bikram Hotel,1900,0,3
-Dhankute Hotel,1500,2,4
-RaiDai Hotel,1000,0,1
-Kanchanjanga Hotel,1600,1,1
-pathivara Hotel,3000,1,1
-Kaka Hotel,1200,2,2
-Mayur Hotel,1700,0,4
-Udayapure Hotel,1800,1,1
-KTM Hotel,1800,0,2
+hotel_name,Price,Type,Rating,photo,ownerId
+Annapurna hotel,1000,0,5,qwertyui,23
+Balmiki Lounge,2000,1,3,hgf,54
+Hotel Vintage,3000,2,4,gedrvg,65
+Hotel Dharan,4000,2,2,trh,25
+Karki Hotel,1000,1,3,qwertyui,46
+Local Adda,2000,0,1,xb,49
+Bahun Hotel,3000,2,2,qwertyui,56
+Thakali Hotel,2200,1,2,xfg,49
+Langahali Hotel,1800,1,1,mfngn,78
+Sampang Hotel,3800,2,2,ar,21
+Jaiswal Hotel,2800,1,3,qwertyui,49
+RatoVale Hotel,1200,2,4,erea,45
+Mithun Hotel,1900,0,2,qwertyui,49
+Gajur Hotel,1500,1,1,gedrvg,678
+Kagbeni Hotel,1890,2,4,qwertyui,49
+Triyuga Hotel and Louge,2200,1,5,rvfeswf,12
+Gaushala  Hotel,2000,2,2,qwertyui,8796frert
+Bikash Hotel,2800,1,1,qwertyui,49
+Bikram Hotel,1900,0,3,ecfwewf,43dw
+Dhankute Hotel,1500,2,4,qwertyui,3432
+RaiDai Hotel,1000,0,1,re,3r4
+Kanchanjanga Hotel,1600,1,1,ar,6y5g
+pathivara Hotel,3000,1,1,e,23refw
+Kaka Hotel,1200,2,2,gedrvg,43t5g
+Mayur Hotel,1700,0,4,szv,y654rt6h
+Udayapure Hotel,1800,1,1,fver,67ujhty
+KTM Hotel,1800,0,2,et,23ed
